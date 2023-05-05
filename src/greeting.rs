@@ -30,7 +30,7 @@ pub fn welcome() {
 
     println!("{}", paint(r#"           _                 _    "#, true_color));
     println!("{}", paint(r#"  __ _  __| |_ __ __ _ _ __ | |_  "#, true_color));
-    println!("{}", paint(r#" / _` |/ _` | '__/ _` | '_ \| __| "#, true_color));
+    println!("{}", paint(r#" / _  |/ _  | '__/ _  | '_ \| __| "#, true_color));
     println!("{}", paint(r#"| (_| | (_| | | | (_| | | | | |_  "#, true_color));
     println!("{}", paint(r#" \__, |\__,_|_|  \__,_|_| |_|\__| "#, true_color));
     println!("{}", paint(r#"    |_|                           "#, true_color));
